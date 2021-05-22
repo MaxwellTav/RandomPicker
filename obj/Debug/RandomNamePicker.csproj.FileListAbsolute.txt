@@ -1,0 +1,15 @@
+C:\Users\maxwe\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.exe.config
+C:\Users\maxwe\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.exe
+C:\Users\maxwe\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.pdb
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.csprojAssemblyReference.cache
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.Index.resources
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.Properties.Resources.resources
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.exe
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.pdb
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.Formularios.SubFormularios.UserInsert.resources
+C:\Users\maxwe\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.exe.manifest
+C:\Users\maxwe\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.application
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.exe.manifest
+C:\Users\maxwe\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.application
